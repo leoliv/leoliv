@@ -1,6 +1,6 @@
 ## Olá! Eu sou Leo Oliveira
 
-- 🌱 Estou estudando NodeJS
+- 🌱 Estou estudando Reat Native (expo)
 - 😄 Pronouns: He/Ele
 <div>
   <a href="https://github.com/leoliv">
